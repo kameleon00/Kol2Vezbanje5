@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kol2Vezbanje5/1.0.0": {
+        "runtime": {
+          "Kol2Vezbanje5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kol2Vezbanje5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
